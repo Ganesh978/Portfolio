@@ -1,0 +1,26 @@
+.intro{
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-black-light-effect-architectural-background-image_262495.jpg);
+	color:white;
+	text-align: center;
+	font-family:"Helvetica Neue",Arial,serif;
+	font-size: 300%;
+}
+.info{
+	font-family: sans-serif;
+	background-color: white;
+	font-size: 250%;
+}
+.Skills{
+	color: white;
+	font-size: 250%;
+	background-color:rgb(225, 0, 89);
+}
+.technologies{
+	font-family:  "Helvetica Neue"
+	background-color:rgb(225, 0, 134);
+	box-sizing: border-box;
+}
+.contact{
+	font-family: sans-serif;
+	font-size: 250%;
+}
